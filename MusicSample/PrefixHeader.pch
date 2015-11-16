@@ -1,0 +1,18 @@
+//
+//  PrefixHeader.pch
+//  MusicSample
+//
+//  Created by lanou3g on 15/9/22.
+//  Copyright (c) 2015年 lanou3g. All rights reserved.
+//
+
+#ifndef MusicSample_PrefixHeader_pch
+#define MusicSample_PrefixHeader_pch
+
+#import "Urls.h"
+#import "UIImageView+WebCache.h"
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#endif
